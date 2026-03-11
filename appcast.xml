@@ -3,6 +3,14 @@
     <channel>
         <title>makesomething</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Tue, 10 Mar 2026 22:07:48 -0700</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/julianjear/makesomething-mac-app/releases/download/v1.2/makesomething.dmg" length="11426404" type="application/octet-stream"/>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Tue, 10 Mar 2026 21:54:18 -0700</pubDate>
             <sparkle:version>2</sparkle:version>
