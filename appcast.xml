@@ -3,6 +3,14 @@
     <channel>
         <title>makesomething</title>
         <item>
+            <title>2.3</title>
+            <pubDate>Sat, 14 Mar 2026 12:06:38 -0700</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/julianjear/makesomething-mac-app/releases/download/v2.3/makesomething.dmg" length="13945261" type="application/octet-stream" sparkle:edSignature="KoD/NlYiuMnBC2ncTyAP0j9DfdDDdPKDwjMt5C7X4q36tdZJZLd466N2MRRulLxKoOZyZQ0/FGrXQBjeFn1WBw=="/>
+        </item>
+        <item>
             <title>2.2</title>
             <pubDate>Sat, 14 Mar 2026 11:49:32 -0700</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/julianjear/makesomething-mac-app/releases/download/v2.1/makesomething.dmg" length="13938029" type="application/octet-stream" sparkle:edSignature="0FiJVYUvNzw1s43g+3ObZpMV2ePDPMy9TWFmeQgCnRmIQS3vYf5bFHjKHhUVz5yniTs8CHT6fS37NRGAywChDg=="/>
-        </item>
-        <item>
-            <title>2.0</title>
-            <pubDate>Sat, 14 Mar 2026 09:56:02 -0700</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/julianjear/makesomething-mac-app/releases/download/v2.0/makesomething.dmg" length="11852050" type="application/octet-stream" sparkle:edSignature="Y9o+YBln/BXAwYeJLuGV0E7B9q9/+kuhhFlNRyekZuYLPwbTYoL7aUYhurAQFfmiSuWuCUNHKXgtzaKCyaMGCQ=="/>
         </item>
     </channel>
 </rss>
