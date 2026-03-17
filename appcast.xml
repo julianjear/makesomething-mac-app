@@ -3,6 +3,14 @@
     <channel>
         <title>makesomething</title>
         <item>
+            <title>2.5</title>
+            <pubDate>Tue, 17 Mar 2026 10:31:32 -0700</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/julianjear/makesomething-mac-app/releases/download/v2.5/makesomething.dmg" length="14247591" type="application/octet-stream" sparkle:edSignature="ET4uSjV9T+UjvBzFGES4gVns29PMn1gb2DBmoUlUe5QxTyz90tyiAnaeOQkdKRbLSyLa0RGYo1+udcrlAv/eCQ=="/>
+        </item>
+        <item>
             <title>2.4</title>
             <pubDate>Tue, 17 Mar 2026 10:09:14 -0700</pubDate>
             <sparkle:version>15</sparkle:version>
